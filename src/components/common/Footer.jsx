@@ -172,7 +172,9 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Hardwork © 2024 Studynotion-Priyansh</div>
+          <div className="text-center">
+            Made with ❤️ Hardwork © 2025 Studynotion-Arin
+          </div>
         </div>
       </div>
     </div>
